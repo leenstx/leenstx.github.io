@@ -1,0 +1,20 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Leenstx'
+theme = 'yinyang'
+
+
+[author]
+  name = "Leenstx·"
+  homepage = "https://joway.io/"
+
+[params]
+mainSections = ["posts"]
+
+[[params.socials]]
+name = "订阅"
+link = "/index.xml"
+
+[[params.socials]]
+name = "关于"
+link = "https://joway.io"
