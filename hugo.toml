@@ -1,4 +1,4 @@
-baseURL = 'https://leenstx.github.io/blog/'
+baseURL = 'https://leenstx.github.io/'
 languageCode = 'en-us'
 title = 'Leenstx'
 theme = 'yinyang'
@@ -6,7 +6,7 @@ theme = 'yinyang'
 
 [author]
   name = "Leenstx·"
-  homepage = "https://leenstx.github.io/blog/"
+  homepage = "https://leenstx.github.io/"
 
 [params]
 mainSections = ["posts"]
