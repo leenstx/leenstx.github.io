@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'Leenstx'
 theme = 'yinyang'
 
-
 [author]
   name = "Leenstx·"
   homepage = "https://leenstx.github.io/"
