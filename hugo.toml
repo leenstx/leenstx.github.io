@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://leenstx.github.io/blog/'
 languageCode = 'en-us'
 title = 'Leenstx'
 theme = 'yinyang'
@@ -6,15 +6,16 @@ theme = 'yinyang'
 
 [author]
   name = "Leenstx·"
-  homepage = "https://joway.io/"
+  homepage = "https://leenstx.github.io/blog/"
 
 [params]
 mainSections = ["posts"]
 
+
 [[params.socials]]
-name = "订阅"
+name = "RSS"
 link = "/index.xml"
 
 [[params.socials]]
-name = "关于"
-link = "https://joway.io"
+name = "Github"
+link = "https://github.com/leenstx/blog"
